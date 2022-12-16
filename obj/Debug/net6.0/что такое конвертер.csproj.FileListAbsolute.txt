@@ -1,0 +1,17 @@
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\что такое конвертер.csproj.AssemblyReference.cache
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\что такое конвертер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\что такое конвертер.AssemblyInfoInputs.cache
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\что такое конвертер.AssemblyInfo.cs
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\что такое конвертер.csproj.CoreCompileInputs.cache
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\bin\Debug\net6.0\что такое конвертер.exe
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\bin\Debug\net6.0\что такое конвертер.deps.json
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\bin\Debug\net6.0\что такое конвертер.runtimeconfig.json
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\bin\Debug\net6.0\что такое конвертер.dll
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\bin\Debug\net6.0\что такое конвертер.pdb
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\что такое конвертер.csproj.CopyComplete
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\что такое конвертер.dll
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\refint\что такое конвертер.dll
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\что такое конвертер.pdb
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\что такое конвертер.genruntimeconfig.cache
+C:\Users\alena\source\repos\что такое конвертер\что такое конвертер\obj\Debug\net6.0\ref\что такое конвертер.dll
